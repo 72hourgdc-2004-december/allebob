@@ -1,0 +1,2 @@
+SRC=src/ai.c src/allebob.c src/bullet.c src/explosion.c src/game.c src/menu.c src/missions.c src/object.c src/pixelmask.c src/plane.c src/player.c src/radar.c src/sprite.c
+HDR=src/actors.h src/bullet.h src/data.h src/explosion.h src/game.h src/globals.h src/menu.h src/missions.h src/object.h src/pixelmask.h src/plane.h src/radar.h src/sprite.h

@@ -1,0 +1,60 @@
+/* Allegro datafile object indexes, produced by grabber v4.1.18 (CVS), Unix */
+/* Datafile: /home/elias/prog/al/allebob/allebob/allebob.dat */
+/* Date: Mon Dec 20 17:33:11 2004 */
+/* Do not hand edit! */
+
+#define JET                              0        /* BMP  */
+#define JET_COLORMASK                    1        /* BMP  */
+#define CLOUD1                           2        /* BMP  */
+#define CLOUD2                           3        /* BMP  */
+#define CLOUD3                           4        /* BMP  */
+#define BULLET                           5        /* BMP  */
+#define CHAINGUN                         6        /* BMP  */
+#define TREE1                            7        /* BMP  */
+#define TREE2                            8        /* BMP  */
+#define MENUJET                          9        /* BMP  */
+#define MENUJET_COLORMASK                10       /* BMP  */
+#define MENUBG                           11       /* BMP  */
+#define RED                              12       /* BMP  */
+#define RED_HOVER                        13       /* BMP  */
+#define BLUE                             14       /* BMP  */
+#define BLUE_HOVER                       15       /* BMP  */
+#define GREEN                            16       /* BMP  */
+#define GREEN_HOVER                      17       /* BMP  */
+#define PLAY                             18       /* BMP  */
+#define PLAY_HOVER                       19       /* BMP  */
+#define MENURADAR                        20       /* BMP  */
+#define BACKTOGAME                       21       /* BMP  */
+#define BACKTOGAME_HOVER                 22       /* BMP  */
+#define SMOKE                            23       /* BMP  */
+#define BIGEXP1                          24       /* BMP  */
+#define BIGEXP2                          25       /* BMP  */
+#define BIGEXP3                          26       /* BMP  */
+#define BIGEXP4                          27       /* BMP  */
+#define BIGEXP5                          28       /* BMP  */
+#define BIGEXP6                          29       /* BMP  */
+#define BIGEXP7                          30       /* BMP  */
+#define BIGEXP8                          31       /* BMP  */
+#define BIGEXP9                          32       /* BMP  */
+#define BIGEXP10                         33       /* BMP  */
+#define MISSILE1                         34       /* BMP  */
+#define MISSILE2                         35       /* BMP  */
+#define MISSILE3                         36       /* BMP  */
+#define MENU_CHAINGUN                    37       /* BMP  */
+#define MENU_MISSILE1                    38       /* BMP  */
+#define MENU_MISSILE2                    39       /* BMP  */
+#define MENU_MISSILE3                    40       /* BMP  */
+#define EXPL_WAV                         41       /* SAMP */
+#define HIT_WAV                          42       /* SAMP */
+#define SHOT_WAV                         43       /* SAMP */
+#define MENU_WEAPON1                     44       /* BMP  */
+#define MENU_WEAPON1_HOVER               45       /* BMP  */
+#define MENU_WEAPON2                     46       /* BMP  */
+#define MENU_WEAPON2_HOVER               47       /* BMP  */
+#define FONT_PCX                         48       /* FONT */
+#define BUILDING_BMP                     49       /* BMP  */
+#define BUILDING_DESTROYED_BMP           50       /* BMP  */
+#define RKT_WAV                          51       /* SAMP */
+#define ENGINE_FLAME                     52       /* BMP  */
+#define ENGINE_FLAME2                    53       /* BMP  */
+

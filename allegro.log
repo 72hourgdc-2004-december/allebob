@@ -1,0 +1,270 @@
+xkeyboard: 248 keys, 12 symbols per key.
+key [8: (null) (null)] not assigned.
+key [9: Escape (null)] assigned to 59.
+key [10: 1 exclam] assigned to 28.
+key [11: 2 quotedbl] assigned to 29.
+key [12: 3 section] assigned to 30.
+key [13: 4 dollar] assigned to 31.
+key [14: 5 percent] assigned to 32.
+key [15: 6 ampersand] assigned to 33.
+key [16: 7 slash] assigned to 34.
+key [17: 8 parenleft] assigned to 35.
+key [18: 9 parenright] assigned to 36.
+key [19: 0 equal] assigned to 27.
+key [20: ssharp question] defering.
+key [21: dead_acute dead_grave] defering.
+key [22: BackSpace Terminate_Server] assigned to 63.
+key [23: Tab ISO_Left_Tab] assigned to 64.
+key [24: q Q] assigned to 17.
+key [25: w W] assigned to 23.
+key [26: e E] assigned to 5.
+key [27: r R] assigned to 18.
+key [28: t T] assigned to 20.
+key [29: z Z] assigned to 26.
+key [30: u U] assigned to 21.
+key [31: i I] assigned to 9.
+key [32: o O] assigned to 15.
+key [33: p P] assigned to 16.
+key [34: udiaeresis Udiaeresis] defering.
+key [35: plus asterisk] defering.
+key [36: Return (null)] assigned to 67.
+key [37: Control_L (null)] assigned to 117.
+key [38: a A] assigned to 1.
+key [39: s S] assigned to 19.
+key [40: d D] assigned to 4.
+key [41: f F] assigned to 6.
+key [42: g G] assigned to 7.
+key [43: h H] assigned to 8.
+key [44: j J] assigned to 10.
+key [45: k K] assigned to 11.
+key [46: l L] assigned to 12.
+key [47: odiaeresis Odiaeresis] defering.
+key [48: adiaeresis Adiaeresis] defering.
+key [49: dead_circumflex degree] defering.
+key [50: Shift_L (null)] assigned to 115.
+key [51: numbersign apostrophe] defering.
+key [52: y Y] assigned to 25.
+key [53: x X] assigned to 24.
+key [54: c C] assigned to 3.
+key [55: v V] assigned to 22.
+key [56: b B] assigned to 2.
+key [57: n N] assigned to 14.
+key [58: m M] assigned to 13.
+key [59: comma semicolon] assigned to 72.
+key [60: period colon] assigned to 73.
+key [61: minus underscore] assigned to 61.
+key [62: Shift_R (null)] assigned to 116.
+key [63: KP_Multiply XF86_ClearGrab] assigned to 87.
+key [64: Alt_L Meta_L] assigned to 119.
+key [65: space (null)] assigned to 75.
+key [66: Caps_Lock (null)] assigned to 126.
+key [67: F1 XF86_Switch_VT_1] assigned to 47.
+key [68: F2 XF86_Switch_VT_2] assigned to 48.
+key [69: F3 XF86_Switch_VT_3] assigned to 49.
+key [70: F4 XF86_Switch_VT_4] assigned to 50.
+key [71: F5 XF86_Switch_VT_5] assigned to 51.
+key [72: F6 XF86_Switch_VT_6] assigned to 52.
+key [73: F7 XF86_Switch_VT_7] assigned to 53.
+key [74: F8 XF86_Switch_VT_8] assigned to 54.
+key [75: F9 XF86_Switch_VT_9] assigned to 55.
+key [76: F10 XF86_Switch_VT_10] assigned to 56.
+key [77: Num_Lock Pointer_EnableKeys] assigned to 125.
+key [78: Scroll_Lock (null)] assigned to 124.
+key [79: KP_Home KP_7] assigned to 44.
+key [80: KP_Up KP_8] assigned to 45.
+key [81: KP_Prior KP_9] assigned to 46.
+key [82: KP_Subtract XF86_Prev_VMode] assigned to 88.
+key [83: KP_Left KP_4] assigned to 41.
+key [84: KP_Begin KP_5] assigned to 42.
+key [85: KP_Right KP_6] assigned to 43.
+key [86: KP_Add XF86_Next_VMode] assigned to 89.
+key [87: KP_End KP_1] assigned to 38.
+key [88: KP_Down KP_2] assigned to 39.
+key [89: KP_Next KP_3] assigned to 40.
+key [90: KP_Insert KP_0] assigned to 37.
+key [91: KP_Delete KP_Separator] assigned to 90.
+key [92: Print Sys_Req] assigned to 92.
+key [93: Mode_switch (null)] defering.
+key [94: less greater] assigned to 71.
+key [95: F11 XF86_Switch_VT_11] assigned to 57.
+key [96: F12 XF86_Switch_VT_12] assigned to 58.
+key [97: Home (null)] assigned to 78.
+key [98: Up (null)] assigned to 84.
+key [99: Prior (null)] assigned to 80.
+key [100: Left (null)] assigned to 82.
+key [101: (null) (null)] not assigned.
+key [102: Right (null)] assigned to 83.
+key [103: End (null)] assigned to 79.
+key [104: Down (null)] assigned to 85.
+key [105: Next (null)] assigned to 81.
+key [106: Insert (null)] assigned to 76.
+key [107: Delete (null)] assigned to 77.
+key [108: KP_Enter (null)] assigned to 91.
+key [109: Control_R (null)] assigned to 118.
+key [110: Pause Break] assigned to 93.
+key [111: Print Sys_Req] *double* assigned to 92.
+key [112: KP_Divide XF86_Ungrab] assigned to 86.
+key [113: ISO_Level3_Shift Multi_key] assigned to 120.
+key [114: Pause Break] *double* assigned to 93.
+key [115: Super_L (null)] assigned to 121.
+key [116: Super_R (null)] assigned to 122.
+key [117: Menu (null)] assigned to 123.
+key [118: (null) (null)] not assigned.
+key [119: (null) (null)] not assigned.
+key [120: (null) (null)] not assigned.
+key [121: (null) (null)] not assigned.
+key [122: (null) (null)] not assigned.
+key [123: (null) (null)] not assigned.
+key [124: ISO_Level3_Shift (null)] *double* assigned to 120.
+key [125: (null) Alt_L] not assigned.
+key [126: KP_Equal (null)] assigned to 103.
+key [127: (null) Super_L] not assigned.
+key [128: (null) Hyper_L] not assigned.
+key [129: (null) (null)] not assigned.
+key [130: (null) (null)] not assigned.
+key [131: (null) (null)] not assigned.
+key [132: (null) (null)] not assigned.
+key [133: (null) (null)] not assigned.
+key [134: (null) (null)] not assigned.
+key [135: (null) (null)] not assigned.
+key [136: (null) (null)] not assigned.
+key [137: (null) (null)] not assigned.
+key [138: (null) (null)] not assigned.
+key [139: (null) (null)] not assigned.
+key [140: (null) (null)] not assigned.
+key [141: (null) (null)] not assigned.
+key [142: (null) (null)] not assigned.
+key [143: (null) (null)] not assigned.
+key [144: XF86AudioPrev (null)] defering.
+key [145: (null) (null)] not assigned.
+key [146: (null) (null)] not assigned.
+key [147: (null) (null)] not assigned.
+key [148: (null) (null)] not assigned.
+key [149: (null) (null)] not assigned.
+key [150: (null) (null)] not assigned.
+key [151: (null) (null)] not assigned.
+key [152: (null) (null)] not assigned.
+key [153: XF86AudioNext (null)] defering.
+key [154: (null) (null)] not assigned.
+key [155: (null) (null)] not assigned.
+key [156: (null) Meta_L] not assigned.
+key [157: (null) (null)] not assigned.
+key [158: (null) (null)] not assigned.
+key [159: (null) (null)] not assigned.
+key [160: (null) (null)] not assigned.
+key [161: (null) (null)] not assigned.
+key [162: XF86AudioPlay (null)] defering.
+key [163: (null) (null)] not assigned.
+key [164: XF86AudioStop (null)] defering.
+key [165: (null) (null)] not assigned.
+key [166: (null) (null)] not assigned.
+key [167: (null) (null)] not assigned.
+key [168: (null) (null)] not assigned.
+key [169: (null) (null)] not assigned.
+key [170: (null) (null)] not assigned.
+key [171: (null) (null)] not assigned.
+key [172: (null) (null)] not assigned.
+key [173: (null) (null)] not assigned.
+key [174: (null) (null)] not assigned.
+key [175: (null) (null)] not assigned.
+key [176: (null) (null)] not assigned.
+key [177: (null) (null)] not assigned.
+key [178: (null) (null)] not assigned.
+key [179: (null) (null)] not assigned.
+key [180: (null) (null)] not assigned.
+key [181: (null) (null)] not assigned.
+key [182: (null) (null)] not assigned.
+key [183: (null) (null)] not assigned.
+key [184: (null) (null)] not assigned.
+key [185: (null) (null)] not assigned.
+key [186: (null) (null)] not assigned.
+key [187: (null) (null)] not assigned.
+key [188: (null) (null)] not assigned.
+key [189: (null) (null)] not assigned.
+key [190: (null) (null)] not assigned.
+key [191: (null) (null)] not assigned.
+key [192: (null) (null)] not assigned.
+key [193: (null) (null)] not assigned.
+key [194: (null) (null)] not assigned.
+key [195: (null) (null)] not assigned.
+key [196: (null) (null)] not assigned.
+key [197: (null) (null)] not assigned.
+key [198: (null) (null)] not assigned.
+key [199: (null) (null)] not assigned.
+key [200: (null) (null)] not assigned.
+key [201: (null) (null)] not assigned.
+key [202: (null) (null)] not assigned.
+key [203: (null) (null)] not assigned.
+key [204: (null) (null)] not assigned.
+key [205: (null) (null)] not assigned.
+key [206: (null) (null)] not assigned.
+key [207: (null) (null)] not assigned.
+key [208: (null) (null)] not assigned.
+key [209: (null) (null)] not assigned.
+key [210: (null) (null)] not assigned.
+key [211: (null) (null)] not assigned.
+key [212: (null) (null)] not assigned.
+key [213: (null) (null)] not assigned.
+key [214: (null) (null)] not assigned.
+key [215: (null) (null)] not assigned.
+key [216: (null) (null)] not assigned.
+key [217: (null) (null)] not assigned.
+key [218: (null) (null)] not assigned.
+key [219: (null) (null)] not assigned.
+key [220: (null) (null)] not assigned.
+key [221: (null) (null)] not assigned.
+key [222: (null) (null)] not assigned.
+key [223: (null) (null)] not assigned.
+key [224: (null) (null)] not assigned.
+key [225: (null) (null)] not assigned.
+key [226: (null) (null)] not assigned.
+key [227: (null) (null)] not assigned.
+key [228: (null) (null)] not assigned.
+key [229: (null) (null)] not assigned.
+key [230: (null) (null)] not assigned.
+key [231: (null) (null)] not assigned.
+key [232: (null) (null)] not assigned.
+key [233: (null) (null)] not assigned.
+key [234: (null) (null)] not assigned.
+key [235: (null) (null)] not assigned.
+key [236: (null) (null)] not assigned.
+key [237: (null) (null)] not assigned.
+key [238: (null) (null)] not assigned.
+key [239: (null) (null)] not assigned.
+key [240: (null) (null)] not assigned.
+key [241: (null) (null)] not assigned.
+key [242: (null) (null)] not assigned.
+key [243: (null) (null)] not assigned.
+key [244: (null) (null)] not assigned.
+key [245: (null) (null)] not assigned.
+key [246: (null) (null)] not assigned.
+key [247: (null) (null)] not assigned.
+key [248: (null) (null)] not assigned.
+key [249: (null) (null)] not assigned.
+key [250: (null) (null)] not assigned.
+key [251: (null) (null)] not assigned.
+key [252: (null) (null)] not assigned.
+key [253: (null) (null)] not assigned.
+key [254: (null) (null)] not assigned.
+key [255: (null) (null)] not assigned.
+Key 20 missing: ssharp question minus underscore backslash questiondown backslash questiondown parenright degree bracketright questiondown - assigned to 60.
+Key 21 missing: dead_acute dead_grave equal plus dead_cedilla dead_ogonek dead_cedilla dead_ogonek equal plus braceright ogonek - assigned to 62.
+Key 34 missing: udiaeresis Udiaeresis bracketleft braceleft dead_diaeresis dead_abovering dead_diaeresis dead_abovering asciicircum diaeresis dead_diaeresis dead_abovering - assigned to 65.
+Key 35 missing: plus asterisk bracketright braceright dead_tilde dead_macron dead_tilde dead_macron dollar sterling currency macron - assigned to 66.
+Key 47 missing: odiaeresis Odiaeresis semicolon colon dead_doubleacute dead_doubleacute dead_acute dead_doubleacute m M mu masculine - assigned to 68.
+Key 48 missing: adiaeresis Adiaeresis apostrophe quotedbl dead_circumflex dead_caron dead_circumflex dead_caron ugrave percent asciicircum caron - assigned to 69.
+Key 49 missing: dead_circumflex degree grave asciitilde notsign notsign notsign notsign twosuperior asciitilde notsign notsign - assigned to 70.
+Key 51 missing: numbersign apostrophe backslash bar dead_grave dead_breve dead_grave dead_breve asterisk mu grave breve - assigned to 74.
+Key 93 missing: Mode_switch (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) - assigned to 94.
+Key 144 missing: XF86AudioPrev (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) - assigned to 95.
+Key 153 missing: XF86AudioNext (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) - assigned to 96.
+Key 162 missing: XF86AudioPlay (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) - assigned to 97.
+Key 164 missing: XF86AudioStop (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) (null) - assigned to 98.
+Modifier 1: Shift_L Shift_R (null)
+Modifier 2: Caps_Lock (null) (null)
+Modifier 3: Control_L Control_R (null)
+Modifier 4: Alt_L (null) (null)
+Modifier 5: Num_Lock (null) (null)
+Modifier 6: (null) (null) (null)
+Modifier 7: (null) (null) (null)
+Modifier 8: Mode_switch ISO_Level3_Shift (null)
